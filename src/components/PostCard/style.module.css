@@ -1,0 +1,20 @@
+.PostCard{
+  z-index: 2;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+
+}
+.Pic{
+  width: 100%;
+}
+.Header{
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  cursor: pointer;
+}

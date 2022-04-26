@@ -1,0 +1,20 @@
+.Button{
+  padding: 0 0.5rem;
+  margin: 0 2rem;
+  cursor: pointer;
+  box-sizing: border-box;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.active{
+  border-bottom: 5px solid #FCA311;
+  font-weight: 600;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+  
+}
